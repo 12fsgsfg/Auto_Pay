@@ -1,0 +1,48 @@
+# AutoPay 插件配置文件
+
+# 自動付款設置
+auto-pay:
+  # 是否啟用自動付款
+  enabled: true
+  
+  # 付款間隔（分鐘）
+  interval: 30
+  
+  # 每次付款金額
+  amount: 100.0
+  
+  # 是否啟用通知
+  notifications:
+    enabled: true
+    # 通知消息
+    message: "&a[自動付款] &f您收到了 &e{amount} &f金錢！"
+    # 音效設置
+    sound:
+      enabled: true
+      # 音效類型 (ENTITY_PLAYER_LEVELUP, BLOCK_NOTE_BLOCK_PLING, ENTITY_EXPERIENCE_ORB_PICKUP)
+      type: "ENTITY_PLAYER_LEVELUP"
+      # 音效音量 (0.0 - 1.0)
+      volume: 1.0
+      # 音效音調 (0.0 - 2.0)
+      pitch: 1.0
+
+# 數據庫設置
+database:
+  # 數據庫類型 (sqlite, mysql)
+  type: "sqlite"
+  # SQLite 數據庫文件
+  sqlite:
+    file: "autopay.db"
+  # MySQL 設置
+  mysql:
+    host: "localhost"
+    port: 3306
+    database: "autopay"
+    username: "root"
+    password: "password"
+    useSSL: false
+
+# 調試設置
+debug:
+  enabled: false
+  level: "INFO"

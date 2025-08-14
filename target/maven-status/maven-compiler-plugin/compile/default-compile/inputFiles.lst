@@ -1,0 +1,13 @@
+D:\Auto_Pay\src\main\java\com\autopay\managers\DatabaseManager.java
+D:\Auto_Pay\src\main\java\com\autopay\utils\MessageUtils.java
+D:\Auto_Pay\src\main\java\com\autopay\economy\DummyEconomyProvider.java
+D:\Auto_Pay\src\main\java\com\autopay\AutoPay.java
+D:\Auto_Pay\src\main\java\com\autopay\listeners\PlayerListener.java
+D:\Auto_Pay\src\main\java\com\autopay\economy\EssentialsEconomyProvider.java
+D:\Auto_Pay\src\main\java\com\autopay\economy\EconomyProvider.java
+D:\Auto_Pay\src\main\java\com\autopay\utils\LogUtils.java
+D:\Auto_Pay\src\main\java\com\autopay\managers\ConfigManager.java
+D:\Auto_Pay\src\main\java\com\autopay\economy\SmartEconomyProvider.java
+D:\Auto_Pay\src\main\java\com\autopay\economy\VaultEconomyProvider.java
+D:\Auto_Pay\src\main\java\com\autopay\commands\AutoPayCommand.java
+D:\Auto_Pay\src\main\java\com\autopay\managers\AutoPayManager.java

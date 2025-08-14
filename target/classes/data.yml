@@ -1,0 +1,7 @@
+# AutoPay 玩家數據文件
+# 此文件會自動生成，請勿手動編輯
+
+players:
+  # 玩家數據格式：
+  # [玩家UUID]:
+  #   notifications: true/false

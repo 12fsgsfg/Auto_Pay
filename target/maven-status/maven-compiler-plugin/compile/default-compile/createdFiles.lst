@@ -1,0 +1,14 @@
+com\autopay\commands\AutoPayCommand.class
+com\autopay\economy\EssentialsEconomyProvider.class
+com\autopay\AutoPay.class
+com\autopay\managers\AutoPayManager.class
+com\autopay\managers\DatabaseManager.class
+com\autopay\utils\LogUtils.class
+com\autopay\managers\AutoPayManager$1.class
+com\autopay\listeners\PlayerListener.class
+com\autopay\utils\MessageUtils.class
+com\autopay\economy\DummyEconomyProvider.class
+com\autopay\economy\EconomyProvider.class
+com\autopay\economy\SmartEconomyProvider.class
+com\autopay\economy\VaultEconomyProvider.class
+com\autopay\managers\ConfigManager.class
